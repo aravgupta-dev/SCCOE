@@ -89,7 +89,7 @@ Keep the repo up-to-date with:
 
 ```
 # from farm-ng-amiga/ dir
-git checkout track-planner-app
+git checkout ucd-green-innovation-network
 git pull
 ```
 
