@@ -1,8 +1,8 @@
 
-# Streamlit Application Download Instructions
+# Dead Reckoning Example Instructions
 
 
-## Setup a codespaces environment in Github! 
+## Connect to your robot via SSH!  
 
 ### Start a virtual environment
 
